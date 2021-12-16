@@ -1,8 +1,18 @@
 
 <!Doctype html>
 <html>
-<title>HTML Applicationandprocess</title>
+
+<head>
+<<<<<<< HEAD
+     <title>HTML Applicationandprocess</title>
+	 <link href="css/site.css" rel="stylesheet">
+||||||| 3683a8f
+     <title>HTML Application</title>
+	 <link href="css/site.css" rel="stylesheet">
+=======
+     <title>HTML Application</title>
 	 <link href="css/site.css" rel="stylesheet and duesheet">
+>>>>>>> Dev2
 </head>
 
 <body>
